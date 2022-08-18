@@ -1,0 +1,2 @@
+0 con_cubrebocas
+1 sin_cubrebocas
